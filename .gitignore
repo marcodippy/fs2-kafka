@@ -3,3 +3,5 @@ node_modules/
 target/
 website/build/
 yarn.lock
+.bloop
+.metals
